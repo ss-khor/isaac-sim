@@ -33,7 +33,7 @@ NVIDIA Isaac Sim™は、NVIDIA Omniverse上に構築されたロボットシミ
 
 
 ```bash
-git clone https://github.com/ss-khor/IsaacSim.git isaacsim
+git clone https://github.com/ss-khor/isaac-sim.git
 cd isaacsim
 git lfs install
 git lfs pull
